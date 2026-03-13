@@ -1,0 +1,14 @@
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Debug\net10.0\C23_DS.exe
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Debug\net10.0\C23_DS.deps.json
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Debug\net10.0\C23_DS.runtimeconfig.json
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Debug\net10.0\C23_DS.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Debug\net10.0\C23_DS.pdb
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.AssemblyInfoInputs.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.AssemblyInfo.cs
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.csproj.CoreCompileInputs.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\refint\C23_DS.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.pdb
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\C23_DS.genruntimeconfig.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Debug\net10.0\ref\C23_DS.dll

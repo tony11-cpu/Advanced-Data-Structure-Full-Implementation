@@ -1,0 +1,14 @@
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.AssemblyInfoInputs.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.AssemblyInfo.cs
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.csproj.CoreCompileInputs.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Release\net10.0\DataStructureStudy.exe
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Release\net10.0\DataStructureStudy.deps.json
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Release\net10.0\DataStructureStudy.runtimeconfig.json
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Release\net10.0\DataStructureStudy.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\bin\Release\net10.0\DataStructureStudy.pdb
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\refint\DataStructureStudy.dll
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.pdb
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\DataStructureStudy.genruntimeconfig.cache
+C:\Users\Tonyg\source\repos\C23_DS\C23_DS\obj\Release\net10.0\ref\DataStructureStudy.dll
