@@ -6,10 +6,10 @@ No libraries, no shortcuts — every structure is implemented manually to build 
 of how they work internally.
 
 What’s Implemented
-	. Min Heap and Max Heap
-	∙	Min Priority Queue and Max Priority Queue
-	∙	Red-Black Tree
-	∙	Graph including shortest path using Dijkstra’s Algorithm
-	∙	Tree Problem Solving
-	∙	Basic Searching Algorithms
-	∙	Simple Sorting Algorithms
+1) Min Heap and Max Heap
+2) Min Priority Queue and Max Priority Queue
+3) Red-Black Tree
+4) Graph including shortest path using Dijkstra’s Algorithm
+5) Tree Problem Solving
+6) Basic Searching Algorithms
+7) Simple Sorting Algorithms
